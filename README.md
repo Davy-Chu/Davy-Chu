@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... software development, particularly webapps
 - 🌱 I’m currently learning ... HTML, CSS, JS, nodeJS
 - 💞️ I’m looking to collaborate on ... nothing currently :(
-- 📫 How to reach me ... badjokesdavid@gmail.com
+- 📫 How to reach me ... yDavidHu@gmail.com
 
 <!---
 Davy-Chu/Davy-Chu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
