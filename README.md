@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davy-Chu
 - 👀 I’m interested in ... software development, particularly webapps
-- 🌱 I’m currently learning ... HTML, CSS, JS, nodeJS, React, Python, C++
+- 🌱 I’m currently learning ... Java, SQL, and C++
 - 💞️ I’m looking to collaborate on full-stack or python related projects
 - 📫 How to reach me ... yDavidHu@gmail.com
 
